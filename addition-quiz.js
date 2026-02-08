@@ -38,7 +38,7 @@ judgeButton.addEventListener(
       paragraph.innerText = `不正解です...`
     }
     resultDivision.appendChild(paragraph);
-  },
+  }
 );
 
 //問題をブラウザを更新して変更する
@@ -47,4 +47,4 @@ changeButton.addEventListener(
   () => {
     window.location.reload();
   }
-)
+);
