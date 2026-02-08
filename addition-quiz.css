@@ -1,0 +1,24 @@
+body {
+  background-color: darkolivegreen;
+  color: antiquewhite;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#judge {
+  height: 30px;
+  padding: 5px 20px;
+  background-color: darkgreen;
+  color: azure;
+  border-style: none;
+}
+#quiz-change {
+  height: 30px;
+  padding: 5px 20px;
+  background-color: blue;
+  color: azure;
+  border-style: none;
+}
+input {
+  height: 20px;
+}
